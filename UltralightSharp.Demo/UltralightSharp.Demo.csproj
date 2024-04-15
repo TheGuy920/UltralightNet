@@ -43,7 +43,7 @@
     <ItemGroup>
         <PackageReference Include="Ansi" Version="1.0.3" />
 		<!--<PackageReference Include="Supine.UltralightSharp" Version="[$(Version)]" />-->
-        <PackageReference Include="SixLabors.ImageSharp" Version="1.0.0-rc0003" />
+        <PackageReference Include="SixLabors.ImageSharp" Version="2.1.8" />
     </ItemGroup>
 
     <ItemGroup>
